@@ -1,0 +1,114 @@
+/* .bannerone{ background-color: aqua;
+    wid
+    display: flex;
+    -ms-flex-direction: row;
+    flex-wrap: wrap;
+
+
+
+
+} */
+
+
+
+.image {
+    flex: 1;
+    text-align: center;
+}
+
+
+.image img {
+    width: 300px;
+    height: 300px;
+    border-radius: 20%;
+    /* border-radius: 50%; */
+}
+
+.bannername {
+    /* width: 60%; */
+    flex: 1;
+    text-align: center;
+    padding-top: 100px;
+    padding-right: 70px;
+    padding-left: 70px;
+}
+
+.hh {
+    text-align: center;
+    /* text-decoration: underline; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.card img {
+    height: 250px;
+}
+
+/* .skills{
+        background-color: rgb(213, 45, 45);
+    } */
+.personal {
+    width: 40%;
+}
+
+.hhh {
+    width: 60%;
+}
+
+.mb-3 {
+    text-align: center;
+}
+
+.talk {
+    text-align: center;
+}
+
+.formm {
+    text-align: center;
+}
+
+/* padding-left: 10%;} */
+
+/* .form{
+    padding-left: 40px;
+    padding-right: 40px; */
+/* } */
+.about {
+    text-align: center;
+}
+
+
+.banner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
+
+.uno{line-height: 40px;}
+
+.pp{line-height: 40px;}
+
+.window{display: flex; 
+    flex-wrap: wrap;}
+
+.footer{text-align: center;
+margin-top: 20px;}
+
+
+/* .con {
+    background-color: blue;
+} */
+
+
+/* .con:hover {
+    background-color: rgb(27, 27, 40);
+    width: 500px;
+} */
+
+
+
+body{
+    background-image: url("premium_photo-1676310601438-cade10ac2644.avif");
+    background-size: cover;
+}
